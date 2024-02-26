@@ -1,0 +1,34 @@
+{
+    "name": "planets-fact",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "build": "npx mix",
+        "mix-watch": "npx mix watch"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Evergardenx/Planets-fact-site.git"
+    },
+    "keywords": [],
+    "author": "Ulises Cenoz",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Evergardenx/Planets-fact-site.git"
+    },
+    "homepage": "https://github.com/Evergardenx/Planets-fact-site.git",
+    "devDependencies": {
+        "laravel-mix": "^6.0.25",
+        "prettier": "2.3.2"
+    },
+    "dependencies": {
+        "@babel/preset-react": "^7.14.5",
+        "framer-motion": "^4.1.17",
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2",
+        "react-icomoon": "^2.3.5",
+        "react-router-dom": "^5.2.0",
+        "styled-components": "^5.3.0"
+    }
+}
